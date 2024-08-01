@@ -1,12 +1,10 @@
 # Star Schema
 
-Desafio: 
-Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+Diagrama dimensional – star schema.
 
-O que deve ser feito?
-
-Deverá ser criada a tabela Fato que contêm o contexto analisado. Da mesma forma, é necessária a criação das tabelas dimensão que serão compostas pelos detalhes relacionados ao contexto.
-Por fim, mas não menos importante, adicione uma tabela dimensão de datas. Para compensar a falta de dados de datas do modelo relacional, suponha que você tem acesso aos dados e crie os campos necessários para modelagem.
+    Criação das Tabelas Dimensão;
+    Criação da tabela Fato que contêm o contexto analisado;
+    Inserção de Dados de exemplos das tabelas dimensão compostas pelos detalhes relacionados ao contexto.
 
 
 Esquema em estrela com o foco na análise dos dados dos professores:
