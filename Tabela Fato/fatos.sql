@@ -4,6 +4,8 @@ CREATE TABLE Fato_Professor (
     ID_Curso INT,
     ID_Departamento INT,
     ID_Data INT,
+    DataInicio DATE,
+    DataTermino DATE,
     Horas_Aula INT,
     Numero_Alunos INT,
     Avaliacao_Professor DECIMAL(3, 2),
